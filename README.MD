@@ -11,6 +11,7 @@
 
 # Projeto Podcast Gerado por I.A.s
 - Podcast que aborda investimentos através de ETFs (exchange-traded fund) globais.
+- Acesse o podcast [aqui] (output/ETF para Crescer.mp3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
