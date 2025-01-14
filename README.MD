@@ -27,7 +27,7 @@
     - Prompt utilizado para criação do roteiro: 
         - "Você é um roteirista de podcast e vamos criar um roteiro de um podcast de investimentos focado em ETF globais, cujo nome é "ETF para Crescer: Seu Futuro Financeiro" e tem em investimentos através de ETFs globais cujo público alvo são iniciantes em investimentos.
             O formato do roteiro deve ser:
-            [INTRODUÇÃO]
+            [INTRODUÇÃO]</br>
             [CURIOSIDADE 1]
             [CURIOSIDADE 2]
             [FINALIZAÇÃO]
