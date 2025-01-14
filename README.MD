@@ -26,11 +26,11 @@
         - "Você é um roteirista de podcast de investimentos, foca em investimentos através de ETF, e eu queria uma ajuda sua para criar cinco sugestões de nomes criativos para um podcast de investimentos com foco em ETF."
     - Prompt utilizado para criação do roteiro: 
         - "Você é um roteirista de podcast e vamos criar um roteiro de um podcast de investimentos focado em ETF globais, cujo nome é "ETF para Crescer: Seu Futuro Financeiro" e tem em investimentos através de ETFs globais cujo público alvo são iniciantes em investimentos.
-            O formato do roteiro deve ser:
+            O formato do roteiro deve ser:</br>
             [INTRODUÇÃO]</br>
-            [CURIOSIDADE 1]
-            [CURIOSIDADE 2]
-            [FINALIZAÇÃO]
+            [CURIOSIDADE 1]</br>
+            [CURIOSIDADE 2]</br>
+            [FINALIZAÇÃO]</br>
         
             REGRAS
             - no bloco [INTRODUÇÃO] substitua por uma introdução com uma breve explicação do que é ETF e porque é um veículo eficiente para fazer investimentos.
