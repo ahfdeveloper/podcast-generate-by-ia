@@ -22,8 +22,8 @@
 ## ✨ Como foi feito ?
 
 - Título e roteiro gerado via Google Gemini
-    Prompt utilizado para criação do título: "Você é um roteirista de podcast de investimentos, foca em investimentos através de ETF, e eu queria uma ajuda sua para criar cinco sugestões de nomes criativos para um podcast de investimentos com foco em ETF."
-    Prompt utilizado para criação do roteiro: 
+    - Prompt utilizado para criação do título: "Você é um roteirista de podcast de investimentos, foca em investimentos através de ETF, e eu queria uma ajuda sua para criar cinco sugestões de nomes criativos para um podcast de investimentos com foco em ETF."
+    - Prompt utilizado para criação do roteiro: 
         "Você é um roteirista de podcast e vamos criar um roteiro de um podcast de investimentos focado em ETF globais, cujo nome é "ETF para Crescer: Seu Futuro Financeiro" e tem em investimentos através de ETFs globais cujo público alvo são iniciantes em investimentos.
         O formato do roteiro deve ser:
         [INTRODUÇÃO]
@@ -31,7 +31,7 @@
         [CURIOSIDADE 2]
         [FINALIZAÇÃO]
         
-        {REGRAS}
+        REGRAS
         - no bloco [INTRODUÇÃO] substitua por uma introdução com uma breve explicação do que é ETF e porque é um veículo eficiente para fazer investimentos.
         - no bloco [CURIOSIDADE 1] substitua por uma curiosidade acerca do mundo dos ETF globais.
         - no bloco [CURIOSIDADE 2] substitua por uma explicação sobre corretoras globais que podem ser opções para fazer investimentos.
